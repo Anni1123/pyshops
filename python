@@ -1,0 +1,3 @@
+Migrations for 'products':
+  products\migrations\0001_initial.py
+    - Create model Product
