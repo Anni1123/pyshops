@@ -1,1 +1,1 @@
-# pyshops
+# pyshop
